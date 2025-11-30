@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emilio Portillo\\Desktop\\EquipodeLab\\Expendio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5C7047-DF73-44FF-9E22-D73D87802C59}|Equipo_Laboratorio\\Expendio.csproj|c:\\users\\emilio portillo\\desktop\\equipodelab\\expendio\\equipo_laboratorio\\formularios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5C7047-DF73-44FF-9E22-D73D87802C59}|Equipo_Laboratorio\\Expendio.csproj|solutionrelative:equipo_laboratorio\\formularios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5C7047-DF73-44FF-9E22-D73D87802C59}|Equipo_Laboratorio\\Expendio.csproj|C:\\Users\\Emilio Portillo\\Desktop\\EquipodeLab\\Expendio\\equipo_laboratorio\\formularios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A5C7047-DF73-44FF-9E22-D73D87802C59}|Equipo_Laboratorio\\Expendio.csproj|solutionrelative:equipo_laboratorio\\formularios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5C7047-DF73-44FF-9E22-D73D87802C59}|Equipo_Laboratorio\\Expendio.csproj|C:\\Users\\Emilio Portillo\\Desktop\\EquipodeLab\\Expendio\\equipo_laboratorio\\clases\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5C7047-DF73-44FF-9E22-D73D87802C59}|Equipo_Laboratorio\\Expendio.csproj|solutionrelative:equipo_laboratorio\\clases\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 329,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Emilio Portillo\\Desktop\\EquipodeLab\\Expendio\\Equipo_Laboratorio\\Formularios\\Producto.cs",
+              "RelativeDocumentMoniker": "Equipo_Laboratorio\\Formularios\\Producto.cs",
+              "ToolTip": "C:\\Users\\Emilio Portillo\\Desktop\\EquipodeLab\\Expendio\\Equipo_Laboratorio\\Formularios\\Producto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Equipo_Laboratorio\\Formularios\\Producto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T23:56:45.399Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Emilio Portillo\\Desktop\\EquipodeLab\\Expendio\\Equipo_Laboratorio\\Formularios\\Producto.cs",
+              "RelativeDocumentMoniker": "Equipo_Laboratorio\\Formularios\\Producto.cs",
+              "ToolTip": "C:\\Users\\Emilio Portillo\\Desktop\\EquipodeLab\\Expendio\\Equipo_Laboratorio\\Formularios\\Producto.cs",
+              "RelativeToolTip": "Equipo_Laboratorio\\Formularios\\Producto.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAowKAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T23:56:42.517Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\Emilio Portillo\\Desktop\\EquipodeLab\\Expendio\\Equipo_Laboratorio\\Clases\\Productos.cs",
+              "RelativeDocumentMoniker": "Equipo_Laboratorio\\Clases\\Productos.cs",
+              "ToolTip": "C:\\Users\\Emilio Portillo\\Desktop\\EquipodeLab\\Expendio\\Equipo_Laboratorio\\Clases\\Productos.cs",
+              "RelativeToolTip": "Equipo_Laboratorio\\Clases\\Productos.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIBAwIUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T01:04:00.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
